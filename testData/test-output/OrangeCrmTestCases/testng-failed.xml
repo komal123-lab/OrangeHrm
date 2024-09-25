@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeCrmTestCases]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="OrangeCrm(failed)">
+    <classes>
+      <class name="testCases.EmpCreationPage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="CreateEmp"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- testCases.EmpCreationPage -->
+    </classes>
+  </test> <!-- OrangeCrm(failed) -->
+</suite> <!-- Failed suite [OrangeCrmTestCases] -->

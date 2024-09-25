@@ -1,0 +1,212 @@
+2024-09-25 00:58:24 INFO  EmpCreationPagewithJSON:38 -
+			***Start First TestCase ****
+2024-09-25 00:58:34 INFO  EmpCreationPagewithJSON:24 -
+			***Start Emp Creations with JSON Case ****
+2024-09-25 00:58:43 INFO  EmpCreationPagewithJSON:37 -
+			Enter First Name
+2024-09-25 00:58:44 INFO  EmpCreationPagewithJSON:44 -
+			Enter Middel Name
+2024-09-25 00:58:44 INFO  EmpCreationPagewithJSON:50 -
+			Enter Last Name
+2024-09-25 00:58:44 INFO  EmpCreationPagewithJSON:55 -
+			Swap tongle
+2024-09-25 00:58:44 INFO  EmpCreationPagewithJSON:57 -
+			Enter Username Name
+2024-09-25 00:58:44 INFO  EmpCreationPagewithJSON:64 -
+			Enter Password
+2024-09-25 00:58:44 INFO  EmpCreationPagewithJSON:70 -
+			Click Submit button
+2024-09-25 00:58:44 INFO  EmpCreationPagewithJSON:72 -
+			check Personal Details visible or not
+2024-09-25 00:58:49 INFO  EmpCreationPagewithJSON:82 -
+			Log out the page
+2024-09-25 00:58:51 INFO  EmpCreationPagewithJSON:90 -
+			Login with New EMP username
+2024-09-25 00:58:51 INFO  EmpCreationPagewithJSON:93 -
+			Login with New EMP Pasword
+2024-09-25 00:58:57 INFO  EmpCreationPagewithJSON:97 -
+			Login succsefully Done
+2024-09-25 01:03:18 INFO  EmpCreationPagewithJSON:38 -
+			***Start First TestCase ****
+2024-09-25 01:03:25 INFO  EmpCreationPagewithJSON:24 -
+			***Start Emp Creations with JSON Case ****
+2024-09-25 01:03:33 INFO  EmpCreationPagewithJSON:37 -
+			Enter First Name
+2024-09-25 01:03:33 INFO  EmpCreationPagewithJSON:44 -
+			Enter Middel Name
+2024-09-25 01:03:34 INFO  EmpCreationPagewithJSON:50 -
+			Enter Last Name
+2024-09-25 01:03:34 INFO  EmpCreationPagewithJSON:55 -
+			Swap tongle
+2024-09-25 01:03:34 INFO  EmpCreationPagewithJSON:57 -
+			Enter Username Name
+2024-09-25 01:03:34 INFO  EmpCreationPagewithJSON:64 -
+			Enter Password
+2024-09-25 01:03:34 INFO  EmpCreationPagewithJSON:70 -
+			Click Submit button
+2024-09-25 01:03:34 INFO  EmpCreationPagewithJSON:72 -
+			check Personal Details visible or not
+2024-09-25 01:03:40 INFO  EmpCreationPagewithJSON:82 -
+			Log out the page
+2024-09-25 01:03:42 INFO  EmpCreationPagewithJSON:90 -
+			Login with New EMP username
+2024-09-25 01:03:42 INFO  EmpCreationPagewithJSON:93 -
+			Login with New EMP Pasword
+2024-09-25 01:03:49 INFO  EmpCreationPagewithJSON:97 -
+			Login succsefully Done
+2024-09-25 01:03:49 INFO  LoginPage:38 -
+			***Start First TestCase ****
+2024-09-25 01:03:56 INFO  LoginPage:24 -
+			***Start Emp Creations with JSON Case ****
+2024-09-25 01:04:03 INFO  LoginPage:40 -
+			***Start Invalid Login ****
+2024-09-25 01:04:03 INFO  LoginPage:44 -
+			Login with Invalid username
+2024-09-25 01:04:03 INFO  LoginPage:47 -
+			Login with valid Json Pasword
+2024-09-25 01:04:09 INFO  LoginPage:54 -
+			Login not succsefully Done
+2024-09-25 20:59:32 INFO  EmpCreationPagewithJSON:38 -
+			***Start First TestCase ****
+2024-09-25 20:59:44 INFO  EmpCreationPagewithJSON:24 -
+			***Start Emp Creations with JSON Case ****
+2024-09-25 20:59:53 INFO  EmpCreationPagewithJSON:37 -
+			Enter First Name
+2024-09-25 20:59:54 INFO  EmpCreationPagewithJSON:44 -
+			Enter Middel Name
+2024-09-25 20:59:54 INFO  EmpCreationPagewithJSON:50 -
+			Enter Last Name
+2024-09-25 20:59:54 INFO  EmpCreationPagewithJSON:55 -
+			Swap tongle
+2024-09-25 20:59:54 INFO  EmpCreationPagewithJSON:57 -
+			Enter Username Name
+2024-09-25 20:59:55 INFO  EmpCreationPagewithJSON:64 -
+			Enter Password
+2024-09-25 20:59:55 INFO  EmpCreationPagewithJSON:70 -
+			Click Submit button
+2024-09-25 20:59:55 INFO  EmpCreationPagewithJSON:72 -
+			check Personal Details visible or not
+2024-09-25 21:00:01 INFO  EmpCreationPagewithJSON:82 -
+			Log out the page
+2024-09-25 21:00:03 INFO  EmpCreationPagewithJSON:90 -
+			Login with New EMP username
+2024-09-25 21:00:03 INFO  EmpCreationPagewithJSON:93 -
+			Login with New EMP Pasword
+2024-09-25 21:00:10 INFO  EmpCreationPagewithJSON:97 -
+			Login succsefully Done
+2024-09-25 21:00:10 INFO  LoginPage:38 -
+			***Start First TestCase ****
+2024-09-25 21:00:22 INFO  LoginPage:24 -
+			***Start Emp Creations with JSON Case ****
+2024-09-25 21:00:30 INFO  LoginPage:40 -
+			***Start Invalid Login ****
+2024-09-25 21:00:30 INFO  LoginPage:44 -
+			Login with Invalid username
+2024-09-25 21:00:30 INFO  LoginPage:47 -
+			Login with valid Json Pasword
+2024-09-25 21:00:37 INFO  LoginPage:54 -
+			Login not succsefully Done
+2024-09-25 23:33:09 INFO  EmpCreationPage:38 -
+			***Start First TestCase ****
+2024-09-25 23:33:20 INFO  EmpCreationPage:20 -
+			***Start Emp Creationt test Case ****
+2024-09-25 23:33:20 INFO  EmpCreationPage:23 -
+			Go to PIM
+2024-09-25 23:34:11 INFO  EmpCreationPage:38 -
+			***Start First TestCase ****
+2024-09-25 23:34:20 INFO  EmpCreationPage:20 -
+			***Start Emp Creationt test Case ****
+2024-09-25 23:34:20 INFO  EmpCreationPage:23 -
+			Go to PIM
+2024-09-25 23:36:10 INFO  EmpCreationPage:38 -
+			***Start First TestCase ****
+2024-09-25 23:36:19 INFO  EmpCreationPage:20 -
+			***Start Emp Creationt test Case ****
+2024-09-25 23:36:25 INFO  EmpCreationPage:28 -
+			Go to PIM
+2024-09-25 23:36:26 INFO  EmpCreationPage:30 -
+			Click on Emp
+2024-09-25 23:36:28 INFO  EmpCreationPage:32 -
+			Enter First Name
+2024-09-25 23:36:28 INFO  EmpCreationPage:35 -
+			Enter Middel Name
+2024-09-25 23:36:28 INFO  EmpCreationPage:37 -
+			Enter Last Name
+2024-09-25 23:36:29 INFO  EmpCreationPage:40 -
+			Swap tongle
+2024-09-25 23:36:29 INFO  EmpCreationPage:42 -
+			Enter Username Name
+2024-09-25 23:36:29 INFO  EmpCreationPage:46 -
+			Enter Password
+2024-09-25 23:36:30 INFO  EmpCreationPage:52 -
+			Enter Password
+2024-09-25 23:36:30 INFO  EmpCreationPage:56 -
+			Click Submit button
+2024-09-25 23:36:30 INFO  EmpCreationPage:58 -
+			check Personal Details visible or not
+2024-09-25 23:36:36 INFO  EmpCreationPage:67 -
+			Log out the page
+2024-09-25 23:40:33 INFO  EmpCreationPage:38 -
+			***Start First TestCase ****
+2024-09-25 23:40:41 INFO  EmpCreationPage:20 -
+			***Start Emp Creationt test Case ****
+2024-09-25 23:40:47 INFO  EmpCreationPage:28 -
+			Go to PIM
+2024-09-25 23:40:48 INFO  EmpCreationPage:30 -
+			Click on Emp
+2024-09-25 23:40:49 INFO  EmpCreationPage:32 -
+			Enter First Name
+2024-09-25 23:40:50 INFO  EmpCreationPage:35 -
+			Enter Middel Name
+2024-09-25 23:40:50 INFO  EmpCreationPage:37 -
+			Enter Last Name
+2024-09-25 23:40:51 INFO  EmpCreationPage:40 -
+			Swap tongle
+2024-09-25 23:40:51 INFO  EmpCreationPage:42 -
+			Enter Username Name
+2024-09-25 23:40:51 INFO  EmpCreationPage:46 -
+			Enter Password
+2024-09-25 23:40:52 INFO  EmpCreationPage:52 -
+			Enter Password
+2024-09-25 23:40:52 INFO  EmpCreationPage:56 -
+			Click Submit button
+2024-09-25 23:40:52 INFO  EmpCreationPage:58 -
+			check Personal Details visible or not
+2024-09-25 23:40:58 INFO  EmpCreationPage:67 -
+			Log out the page
+2024-09-25 23:40:59 INFO  EmpCreationPage:77 -
+			Login with New EMP username
+2024-09-25 23:41:00 INFO  EmpCreationPage:80 -
+			Login with New EMP Pasword
+2024-09-25 23:41:05 INFO  EmpCreationPage:84 -
+			Login succsefully Done
+2024-09-25 23:41:15 ERROR EmpCreationPage:90 -
+			Test Failed
+2024-09-25 23:44:56 INFO  EmpCreationPagewithJSON:38 -
+			***Start First TestCase ****
+2024-09-25 23:45:04 INFO  EmpCreationPagewithJSON:24 -
+			***Start Emp Creations with JSON Case ****
+2024-09-25 23:45:13 INFO  EmpCreationPagewithJSON:37 -
+			Enter First Name
+2024-09-25 23:45:14 INFO  EmpCreationPagewithJSON:44 -
+			Enter Middel Name
+2024-09-25 23:45:15 INFO  EmpCreationPagewithJSON:50 -
+			Enter Last Name
+2024-09-25 23:45:15 INFO  EmpCreationPagewithJSON:55 -
+			Swap tongle
+2024-09-25 23:45:15 INFO  EmpCreationPagewithJSON:57 -
+			Enter Username Name
+2024-09-25 23:45:15 INFO  EmpCreationPagewithJSON:64 -
+			Enter Password
+2024-09-25 23:45:16 INFO  EmpCreationPagewithJSON:70 -
+			Click Submit button
+2024-09-25 23:45:16 INFO  EmpCreationPagewithJSON:72 -
+			check Personal Details visible or not
+2024-09-25 23:45:22 INFO  EmpCreationPagewithJSON:82 -
+			Log out the page
+2024-09-25 23:45:23 INFO  EmpCreationPagewithJSON:90 -
+			Login with New EMP username
+2024-09-25 23:45:24 INFO  EmpCreationPagewithJSON:93 -
+			Login with New EMP Pasword
+2024-09-25 23:45:29 INFO  EmpCreationPagewithJSON:97 -
+			Login succsefully Done

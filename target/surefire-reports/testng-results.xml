@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-25T20:59:31 IST" name="OrangeCrmTestCases" finished-at="2024-09-25T21:00:37 IST" duration-ms="65801">
+    <groups>
+    </groups>
+    <test started-at="2024-09-25T20:59:31 IST" name="OrangeCrm" finished-at="2024-09-25T21:00:37 IST" duration-ms="65801">
+      <class name="testCases.LoginPage">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:testCases.LoginPage@4ec4f3a0]" started-at="2024-09-25T21:00:10 IST" name="Setup" finished-at="2024-09-25T21:00:22 IST" duration-ms="11412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="ValidLogin()[pri:1, instance:testCases.LoginPage@4ec4f3a0]" started-at="2024-09-25T21:00:22 IST" name="ValidLogin" finished-at="2024-09-25T21:00:29 IST" duration-ms="7243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+        <test-method signature="InValidLogin()[pri:2, instance:testCases.LoginPage@4ec4f3a0]" started-at="2024-09-25T21:00:29 IST" name="InValidLogin" finished-at="2024-09-25T21:00:37 IST" duration-ms="7742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LoginPage@4ec4f3a0]" started-at="2024-09-25T21:00:37 IST" name="tearDown" finished-at="2024-09-25T21:00:37 IST" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.LoginPage -->
+      <class name="testCases.EmpCreationPagewithJSON">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:testCases.EmpCreationPagewithJSON@7f0eb4b4]" started-at="2024-09-25T20:59:32 IST" name="Setup" finished-at="2024-09-25T20:59:44 IST" duration-ms="12623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="CreateEmp()[pri:0, instance:testCases.EmpCreationPagewithJSON@7f0eb4b4]" started-at="2024-09-25T20:59:44 IST" name="CreateEmp" finished-at="2024-09-25T21:00:03 IST" duration-ms="18339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateEmp -->
+        <test-method signature="loginwithNewEmp()[pri:0, instance:testCases.EmpCreationPagewithJSON@7f0eb4b4]" started-at="2024-09-25T21:00:03 IST" name="loginwithNewEmp" finished-at="2024-09-25T21:00:10 IST" duration-ms="7148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithNewEmp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.EmpCreationPagewithJSON@7f0eb4b4]" started-at="2024-09-25T21:00:10 IST" name="tearDown" finished-at="2024-09-25T21:00:10 IST" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.EmpCreationPagewithJSON -->
+    </test> <!-- OrangeCrm -->
+  </suite> <!-- OrangeCrmTestCases -->
+</testng-results>
